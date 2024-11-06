@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "net_api": "Substrate.Statemint.NET.NetApiExt",
+    "net_integration": "Substrate.Integration",
+    "rest_service": "Substrate.Statemint.NET.RestService",
+    "rest_client": "Substrate.Statemint.NET.RestClient"
+  },
+   "metadata": {
+      "websocket": "wss://rpc-para.ajuna.network"
+   },
+  "rest_client_settings": {
+    "service_assembly": "Substrate.Statemint.NET.RestService.dll"
+  }
+}
